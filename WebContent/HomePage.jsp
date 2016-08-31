@@ -4,7 +4,7 @@
 <html>
 <body>
 
-<a href="http://www.w3schools.com"> is a link</a>
+<a href="http://www.w3schools.com"> It is a link</a>
 
 </body>
 </html>
